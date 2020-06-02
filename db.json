@@ -1,17 +1,17 @@
 {
-  "runs": [
-    {
-      "id": 1,
-      "distance": 5,
-      "pace" : 4.5,
-      "date":"22.05.2020",
-      "comment": "Threshold run"
-    }, 
-  {
-     "id": 2,
-      "distance": 12,
-      "pace" : 5.5,
-      "date":"24.05.2020",
-      "comment": "Long run"  
-  }
+	"runs": [{
+			"id": 1,
+			"distance": 5,
+			"pace": 4.5,
+			"date": "22.05.2020",
+			"comment": "Threshold run"
+		},
+		{
+			"id": 2,
+			"distance": 12,
+			"pace": 5.5,
+			"date": "24.05.2020",
+			"comment": "Long run"
+		}
+	]
 }
