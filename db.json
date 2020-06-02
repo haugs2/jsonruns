@@ -12,6 +12,27 @@
 			"pace": 5.5,
 			"date": "24.05.2020",
 			"comment": "Long run"
-		}
+		},
+		{
+			"id": 3, 
+			"distance": 6,
+			"pace": 4.75,
+			"date": "28.05.2020",
+			"comment": "pretty fast running"		
+		},
+		{
+			"id": 4,
+			"distance": 2.5,
+			"pace": 4.16,
+			"date": "01.06.2020",
+			"comment": "Splits training"
+		},
+		{
+			"id": 5,
+			"distance": 5,
+			"pace": 5.75,
+			"date":"02.06.2020",
+			"comment": "Easy run"
+		}	
 	]
 }
